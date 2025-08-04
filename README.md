@@ -1,5 +1,3 @@
-### Hello, 👋
-
 <center>I’m a researcher interested in the alignment problem within multimodal LLMs.</center>
 <center>And also</center>
 <center>I’m deeply curious about how machines understand us.</center>
